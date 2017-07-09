@@ -1,2 +1,2 @@
 # hello-world
-a part of step zero to one 
+a part of project step zero to one 
